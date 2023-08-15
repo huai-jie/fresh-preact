@@ -1,0 +1,14 @@
+
+li.active{
+    border-color: rgb(229 231 235);
+}
+
+.active span{
+  color: rgb(17 24 39);
+  font-weight: 500;
+}
+
+.active svg {
+  color: rgb(107 114 128);
+}
+
